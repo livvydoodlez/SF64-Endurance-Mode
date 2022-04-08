@@ -3,7 +3,7 @@ Endurance mode for Star Fox 64, Race against the time, earn points to increase t
 
 ___
 
-ALpha release of Endurance Mode
+Alpha release of Endurance Mode
 
 Coded by: Livvydoodlez
 
