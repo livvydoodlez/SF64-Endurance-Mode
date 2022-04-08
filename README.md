@@ -42,3 +42,9 @@ WARNINGS:
 This script is still in alpha and has bugs!
 
 There is no logic on beating stages, so there is no garuntee that levels are beatable. Keep that in mind while using this script.
+
+___
+
+REQUIREMENTS:
+
+Must use Bizhawk emulator with Lua console to run this script.
