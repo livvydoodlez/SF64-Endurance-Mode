@@ -19,19 +19,19 @@ Endurance mode is a mode custom maded to have a set timer to beat a level. The t
 
 Release Alpha 1:
 
-  Timer for levels [Done & Tested]
-  Timer adds up to minutes [Done & Tested]
-  Add points per a kill = [Done & Tested]
-  Subtract points per HP loss = [Done & Tested]
-  Subtract points per bomb used = [Done & Tested]
-  Die when timer hits 0:00:00 = [Done & Tested]
-  Pause timer when paused = D[Done & Tested]
-  Lose 10 seconds when team mate dies = [Done & Tested]
-  Multiplier with laser upgrade = [Done & Tested]
-  Timer speeds up with laser upgrades = [Done & Tested]
-  Unique timer based on level = [Done & Tested] <LOGIC NOT IMPLEMENTED TO SEE IF LEVELS ARE BEATABLE!>
-  Bomb multiplier for laser upgrades = [Done & Tested]
-  Difficulty mode for non-score runners = [Done & SLIGHTLY tested]
+  -Timer for levels [Done & Tested]
+  -Timer adds up to minutes [Done & Tested]
+  -Add points per a kill = [Done & Tested]
+  -Subtract points per HP loss = [Done & Tested]
+  -Subtract points per bomb used = [Done & Tested]
+  -Die when timer hits 0:00:00 = [Done & Tested]
+  -Pause timer when paused = D[Done & Tested]
+  -Lose 10 seconds when team mate dies = [Done & Tested]
+  -Multiplier with laser upgrade = [Done & Tested]
+  -Timer speeds up with laser upgrades = [Done & Tested]
+  -Unique timer based on level = [Done & Tested] <LOGIC NOT IMPLEMENTED TO SEE IF LEVELS ARE BEATABLE!>
+  -Bomb multiplier for laser upgrades = [Done & Tested]
+  -Difficulty mode for non-score runners = [Done & SLIGHTLY tested]
   
   
 ___
